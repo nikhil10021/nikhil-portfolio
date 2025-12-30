@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.profile-photo {
+  width: 320px;
+  height: 130px;
+  padding: 15px;
+  margin: 100px;
+  border-radius: 30%;
+  object-fit: left;
+  border: 6px solid #9b5de5;
+  box-shadow: 0 0 30px rgba(155, 93, 229, 0.4);
+}

@@ -1,0 +1,49 @@
+/* whole page section */
+.contact-section {
+  min-height: 85vh;          /* footer se upar rakhe */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 80px 20px;
+  position: relative;
+  z-index: 2;                /* footer ke upar */
+}
+
+/* main card */
+.contact-container {
+  max-width: 650px;
+  width: 100%;
+  background: #0f0b1e;       /* SOLID dark background */
+  border-radius: 14px;
+  padding: 45px;
+  text-align: center;
+  box-shadow: 0 0 25px rgba(199, 112, 240, 0.15);
+}
+
+/* heading */
+.contact-heading {
+  font-size: 2.5rem;
+  color: #c770f0;
+  margin-bottom: 15px;
+}
+
+/* subtitle */
+.contact-text {
+  font-size: 1rem;
+  color: #dcdcdc;
+  margin-bottom: 30px;
+}
+
+/* info */
+.contact-details p {
+  font-size: 1.05rem;
+  color: #ffffff;
+  margin: 12px 0;
+}
+
+/* icons */
+.contact-details svg {
+  margin-right: 8px;
+  color: #c770f0;
+  vertical-align: middle;
+}

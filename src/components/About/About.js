@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Particle from "../Particle";
-import Github from "./Github";
+// GitHub contribution heatmap removed per personalization request
 import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
 import laptopImg from "../../Assets/about.png";
@@ -47,7 +47,7 @@ function About() {
           </h1>
           <Toolstack />
 
-          <Github />
+          {/* GitHub contributions heatmap removed */}
         </Container>
       </Container>
     </>
