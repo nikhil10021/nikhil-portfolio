@@ -1,73 +1,52 @@
-<h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://linkedin.com/in/nikhilgupta31/" target="_blank">nikhilrajgupta - LinkedIn</a>
-</h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
+# Nikhil Raj Gupta – Portfolio Website
 
-<br/>
+🚀 Personal portfolio website built using **React.js** to showcase my skills, projects, and experience as a **Software Engineer**.
 
-<center>
+---
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-<!-- Repo badges retained -->
+## 🔗 Live Portfolio
+👉 https://YOUR_VERCEL_LINK_HERE
 
-</center>
+---
 
-<h3 align="center">
-    🔹
-    <a href="#">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="#">Request Feature</a>
-</h3>
-
-## TL;DR
-
-You can fork this repo to modify and make changes of your own. This copy is personalized for Nikhil Raj Gupta.
-
-## Built With
-
-This repository is a personalized portfolio template for Nikhil Raj Gupta showcasing projects, resume and technical skills.<br/>
-
-This project was built using these technologies.
+## 👨‍💻 About Me
+I’m a **Software Engineer (Full Stack MERN)** with 3+ years of experience building scalable, production-ready web applications using:
 
 - React.js
 - Node.js
 - Express.js
-- CSS3
-- VsCode
-- Vercel
+- MongoDB
+- JavaScript
+- Python
 
-## Features
+---
 
-**📖 Multi-Page Layout**
+## 🛠 Tech Stack
+- **Frontend:** React.js, JavaScript, CSS, Bootstrap
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Tools:** Git, GitHub, VS Code, Vercel
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+---
 
-**📱 Fully Responsive**
+## 📂 Features
+- Responsive modern UI
+- Projects showcase
+- Resume download
+- Contact section with email & LinkedIn
+- Deployed on Vercel
 
-## Getting Started
+---
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+## 📄 Resume
+Resume is available for download directly from the website.
 
-## 🛠 Installation and Setup Instructions
+---
 
-1. Installation: `npm install`
+## 📬 Contact
+- **Email:** nikhilrajgupta195@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/nikhilgupta31
 
-2. In the project directory, you can run: `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
-
-## Usage Instructions
-
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
-
-### Show your support
-
-Give a ⭐ if you like this website!
+⭐ If you like this project, feel free to star the repository!
